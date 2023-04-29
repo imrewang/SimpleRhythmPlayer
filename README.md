@@ -12,6 +12,9 @@
 
 ## （三）运行截图
 
+![GUI](https://github.com/imrewang/SimpleRhythmPlayer/blob/main/screenshot/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-04-29%20212053.png?raw=true)
+
+有声音的哦
 
 ## (四）总结
 
